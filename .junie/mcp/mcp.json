@@ -1,0 +1,20 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "/Users/mark/Library/Application Support/Herd/bin/php84",
+            "args": [
+                "/Users/mark/Herd/secure-laravel-application/artisan",
+                "boost:mcp"
+            ]
+        },
+        "herd": {
+            "command": "/Users/mark/Library/Application Support/Herd/bin/php84",
+            "args": [
+                "/Applications/Herd.app/Contents/Resources/herd-mcp.phar"
+            ],
+            "env": {
+                "SITE_PATH": "/Users/mark/Herd/secure-laravel-application"
+            }
+        }
+    }
+}

@@ -1,0 +1,13 @@
+node_modules
+vendor
+.git
+.github
+.env
+.env.backup
+.phpunit.result.cache
+storage
+bootstrap/cache
+tests
+*.md
+.DS_Store
+
