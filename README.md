@@ -4,7 +4,7 @@ This is a sample application demonstrating Laravel security practices with Trivy
 
 ## Documentation
 
-- [Slides](https://raw.githubusercontent.com/marktopper/laravel-trivy-sample/refs/heads/main/slides.pdf) - Presentation slides for this project
+- [Slides](https://drive.google.com/file/d/1pdKXfCcVs34FIGJHDbNzuYiWV-H3f3fm/view?usp=sharing) - Presentation slides for this project
 
 ## Security Scanning
 
